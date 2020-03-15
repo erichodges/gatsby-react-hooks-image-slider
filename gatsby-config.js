@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `Gatsby-React-hooks-image-slider`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#000`,
